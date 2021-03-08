@@ -5,3 +5,7 @@
 주로 보는 파트 : 10장 이후
 
 참고 : https://keras.io, https://www.tensorflow.org
+
+
+
+너무 큰 파일들은 colab_test에서 처리
